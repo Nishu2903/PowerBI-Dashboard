@@ -1,9 +1,7 @@
 ## Key Learnings
-Learned about what real business data sets look like.
-Learned about how to write some major analysis queries in MySQL.
-how to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
-Learned about some major practical DAX functions and measures.
-Learned about some major analytical visuals and reports.
+1. Created interactive dashboard to track and analyze online sales data, Used complex parameters to drill down in worksheet and customization using filters and slicers
+2. Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations of visualization.
+3. Visulation as bar chart, pie chart, donut chart,clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc
 
 ## Final result
 
